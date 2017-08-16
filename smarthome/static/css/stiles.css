@@ -1,0 +1,16 @@
+.device
+{
+	
+	padding: 15px;
+}
+.device .body
+{
+	background: #f0ffff;
+	border-radius: 15px;
+	padding: 10px;
+}
+.device .body .location
+{
+	margin: 0;
+	
+}
